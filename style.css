@@ -1,0 +1,48 @@
+p{
+    font-size: 20px;
+    text-align: center;
+}
+
+.principal{
+    background-color: beige;
+    padding: 20px;
+}
+
+.tituloHeader{
+    padding-left: 30px;
+}
+
+.tituloCentralizado{
+    text-align: center;
+}
+
+body{
+    background-color: ghostwhite;
+}
+
+em strong{
+    color: red;
+}
+
+#banner{
+    width: 100%;
+}
+
+.diferenciales{
+    padding: 20px;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%; 
+}
+
+.item{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.imagenDiferenciales{
+    width: 50%;
+}
